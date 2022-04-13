@@ -68,3 +68,113 @@
  best cost => 10.559829909909915 
  best position => [5, -6, -5, 8, -10, 8, 0, -5, 0, 1, -9] 
  best function => x0 + 14.04 
+
+ iteration => 150 
+ best cost => 10.559829909909915 
+ best position => [5, -6, -5, 8, -10, 8, 0, -5, 0, 1, -9] 
+ best function => x0 + 14.04 
+
+ iteration => 160 
+ best cost => 10.559829909909915 
+ best position => [5, -6, -5, 8, -10, 8, 0, -5, 0, 1, -9] 
+ best function => x0 + 14.04 
+
+ iteration => 170 
+ best cost => 10.559829909909915 
+ best position => [5, -6, -5, 8, -10, 8, 0, -5, 0, 1, -9] 
+ best function => x0 + 14.04 
+
+ iteration => 180 
+ best cost => 10.559829909909915 
+ best position => [5, -6, -5, 8, -10, 8, 0, -5, 0, 1, -9] 
+ best function => x0 + 14.04 
+
+ iteration => 190 
+ best cost => 10.559829909909915 
+ best position => [5, -6, -5, 8, -10, 8, 0, -5, 0, 1, -9] 
+ best function => x0 + 14.04 
+
+ iteration => 200 
+ best cost => 10.559829909909915 
+ best position => [5, -6, -5, 8, -10, 8, 0, -5, 0, 1, -9] 
+ best function => x0 + 14.04 
+
+ iteration => 210 
+ best cost => 10.510528468468467 
+ best position => [5, -6, 6, 8, -9, 8, -3, -6, 0, 6, -9] 
+ best function => x0 + 12.57 
+
+ iteration => 220 
+ best cost => 10.510528468468467 
+ best position => [5, -6, 6, 8, -9, 8, -3, -6, 0, 6, -9] 
+ best function => x0 + 12.57 
+
+ iteration => 230 
+ best cost => 10.510528468468467 
+ best position => [5, -6, 6, 8, -9, 8, -3, -6, 0, 6, -9] 
+ best function => x0 + 12.57 
+
+ iteration => 240 
+ best cost => 10.510528468468467 
+ best position => [5, -6, 6, 8, -9, 8, -3, -6, 0, 6, -9] 
+ best function => x0 + 12.57 
+
+ iteration => 250 
+ best cost => 10.510528468468467 
+ best position => [5, -6, 6, 8, -9, 8, -3, -6, 0, 6, -9] 
+ best function => x0 + 12.57 
+
+ iteration => 260 
+ best cost => 10.510528468468467 
+ best position => [5, -6, 6, 8, -9, 8, -3, -6, 0, 6, -9] 
+ best function => x0 + 12.57 
+
+ iteration => 270 
+ best cost => 10.510528468468467 
+ best position => [5, -6, 6, 8, -9, 8, -3, -6, 0, 6, -9] 
+ best function => x0 + 12.57 
+
+ iteration => 280 
+ best cost => 10.510528468468467 
+ best position => [5, -6, 6, 8, -9, 8, -3, -6, 0, 6, -9] 
+ best function => x0 + 12.57 
+
+ iteration => 290 
+ best cost => 10.510528468468467 
+ best position => [5, -6, 6, 8, -9, 8, -3, -6, 0, 6, -9] 
+ best function => x0 + 12.57 
+
+ iteration => 300 
+ best cost => 10.510528468468467 
+ best position => [5, -6, 6, 8, -9, 8, -3, -6, 0, 6, -9] 
+ best function => x0 + 12.57 
+
+ iteration => 310 
+ best cost => 10.510528468468467 
+ best position => [5, -6, 6, 8, -9, 8, -3, -6, 0, 6, -9] 
+ best function => x0 + 12.57 
+
+ iteration => 320 
+ best cost => 10.510528468468467 
+ best position => [5, -6, 6, 8, -9, 8, -3, -6, 0, 6, -9] 
+ best function => x0 + 12.57 
+
+ iteration => 330 
+ best cost => 10.510528468468467 
+ best position => [5, -6, 6, 8, -9, 8, -3, -6, 0, 6, -9] 
+ best function => x0 + 12.57 
+
+ iteration => 340 
+ best cost => 10.510528468468467 
+ best position => [5, -6, 6, 8, -9, 8, -3, -6, 0, 6, -9] 
+ best function => x0 + 12.57 
+
+ iteration => 350 
+ best cost => 10.510528468468467 
+ best position => [5, -6, 6, 8, -9, 8, -3, -6, 0, 6, -9] 
+ best function => x0 + 12.57 
+
+ iteration => 360 
+ best cost => 10.510528468468467 
+ best position => [5, -6, 6, 8, -9, 8, -3, -6, 0, 6, -9] 
+ best function => x0 + 12.57 

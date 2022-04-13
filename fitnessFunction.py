@@ -53,11 +53,11 @@ def mainFitness(position):
             #     theString += '-x0*5000'
 
             mainFunc = finalString  # eval(finalString)
-            t = np.linspace(-10, 10, 1000)
+            t = np.linspace(-100, 100, 5000)
             mengaX = []
             resultX = []
             # mengaString = 'np.tanh(np.tanh(np.tanh(np.tanh(x0)*81.6497)*8)*abs(np.sqrt(np.pi)* np.log(6)))*np.pi*81.6497'
-            mengaString = '3.1*x0+12.6'
+            mengaString = '25*x0+12.6'
             # mengaString='3.4 * x0'
             for i in t:
                 menga = func.evalFunction(i, mengaString)
